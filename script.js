@@ -1,5 +1,5 @@
 // import questions
-const questions = require('./questions.js')
+import {questions} from './questions.js'
 
 // Dom elements
 const btnValid = document.querySelector('#btn-validation');
@@ -21,5 +21,7 @@ function getAnswers() {
         })        
     });
 }
+
+alert(questions)
 
 
