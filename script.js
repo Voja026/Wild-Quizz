@@ -94,8 +94,3 @@ questions.forEach(question => {
         questionDiv.appendChild(answerDiv)
     })
 })
-
-
-
-//
-let answerArray = []
