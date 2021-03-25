@@ -6,7 +6,7 @@
         },
         {
             id: 1,
-            question: "Lequel des éléments suivants est utilisé dans le script Java pour insérer des caractères spéciaux ?  ? ",
+            question: "Lequel des éléments suivants est utilisé dans le Java script pour insérer des caractères spéciaux ?  ? ",
             answers: [" :) ", " & ", " \\ ", " :p "],
             correctAnswer: 2
         },
@@ -29,7 +29,6 @@
             correctAnswer: 3
         },
         {
-            id: 5,
             question: "Javascript est un langage orienté objet ? ",
             answers: ["True ", "Maybe ", "Baby ", "False"],
             correctAnswer: 0
